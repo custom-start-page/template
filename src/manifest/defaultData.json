@@ -1,0 +1,20 @@
+{
+    "links": [
+        {
+            "name": "Youtube",
+            "url": "https://www.youtube.com"
+        },
+        {
+            "name": "Netflix",
+            "url": "https://www.netflix.com"
+        },
+        {
+            "name": "Spotify",
+            "url": "https://www.spotify.com"
+        },
+        {
+            "name": "Prime",
+            "url": "https://www.amazon.de/amazonprime?_encoding=UTF8&%2AVersion%2A=1&%2Aentries%2A=0"
+        }
+    ]
+}
