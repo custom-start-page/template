@@ -8,7 +8,6 @@
     },
     "preview": "preview.png",
     "features": [
-        "links",
-        "search bar"
+        "links"
     ]
 }
