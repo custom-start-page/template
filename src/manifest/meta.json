@@ -1,10 +1,10 @@
 {
     "version": "1.0.0",
-    "name": "Wave",
-    "slug": "wave",
+    "name": "Template",
+    "slug": "template",
     "author": {
-        "name": "Tobias-Schoch",
-        "link": "https://github.com/Tobias-Schoch/startpage-wave"
+        "name": "Harvzor",
+        "link": "https://github.com/custom-start-page/template"
     },
     "preview": "preview.png",
     "features": [

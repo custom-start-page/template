@@ -11,3 +11,5 @@ It allows you to personalise certain content on the page, such as links that are
 ### Links
 
 You can define your own links!
+
+That's about it though.
