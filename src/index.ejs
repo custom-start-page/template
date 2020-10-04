@@ -6,9 +6,11 @@
 </head>
 <body>
     <div id="link-container">
-        <!-- Dynamically inserted content -->
+        <% data.links.forEach(link = (link) => { %>
+            <div>
+                <a href="<%= link.url %>"><%= link.name %></a>
+            </div>
+        <% }) %>
     </div>
-    <script src="/csp/js/storage.js"></script>
-    <script src="/script.js"></script>
 </body>
 </html>

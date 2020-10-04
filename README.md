@@ -11,6 +11,10 @@ Template is an example of how a website that's compatible with Custom Start Page
 ### Getting started
 
 1. Download a ZIP of this repository and use that as the base template for your startpage
+2. Run NPM install
+3. Open a terminal in the `./src` directory
+4. Run `node ../node_modules/custom-start-page-server/` to start the server
+5. Navigate to the URL which your terminal prints out to view your startpage
 
 ### Custom Start Page requirements
 
