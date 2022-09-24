@@ -1,12 +1,10 @@
 {
     "version": "1.0.0",
     "name": "Template",
-    "slug": "template",
     "author": {
         "name": "Harvzor",
         "link": "https://github.com/custom-start-page/template"
     },
-    "preview": "preview.png",
     "features": [
         "links"
     ]

@@ -20,7 +20,7 @@ Template is an example of how a website that's compatible with Custom Start Page
 
 Custom Start Page expects certain criteria to be met:
 
-- there **must** be an `index.html` file in the root of the directory
+- there **must** be an `index.html` or an `index.ejs` file in the root of the directory
 - there **must** be a `/manifest/` directory in the root of the directory with these files:
     - `defaultData.json` - the default options defined for the user, for example, a list of links
     - `meta.json` - provides meta information about this startpage such as the name and author

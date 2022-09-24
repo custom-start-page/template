@@ -1,5 +1,15 @@
 {
   "properties": {
+    "backgroundColour": {
+      "type": "string",
+      "title": "Background colour",
+      "description": "Page background"
+    },
+    "textColour": {
+      "type": "string",
+      "title": "Text colour",
+      "description": "Text colour"
+    },
     "links": {
       "type": "array",
       "title": "Links",
